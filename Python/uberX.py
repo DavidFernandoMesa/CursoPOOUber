@@ -1,7 +1,7 @@
 from car import Car
 
 
-class uberX(Car):
+class UberX(Car):
     brand = str
     model = str
 

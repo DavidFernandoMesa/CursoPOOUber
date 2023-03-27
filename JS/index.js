@@ -19,3 +19,11 @@ var uberPool = new UberPool(
 );
 uberPool.passengers = 4;
 uberPool.printDataCar();
+
+var user = new User(
+  "Gustavo Andres",
+  "648957",
+  "gustavo@hotmail.com",
+  "54782"
+);
+user.PrintDataUser();

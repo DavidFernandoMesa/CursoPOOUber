@@ -1,7 +1,7 @@
 from car import Car
 
 
-class uberVan(Car):
+class UberVan(Car):
     typeCarAccepted = []
     seatsMaterial = []
 
